@@ -47,4 +47,4 @@ Bu proje, Netflix'in sunduğu içeriklere (film ve diziler) ait veriler üzerind
 
 ## 📷 Görselleştirme Örnekleri
 
-| ![01](images/01.png) | ![02](images/02.png) | ![03](images/03.png) |
+| ![01](images/01.png) | ![02](images/02.png) | ![03](images/03.png) | ![03](images/04.png) | ![03](images/05.png) |
